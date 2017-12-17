@@ -23,7 +23,7 @@ baseurl: /mm-remote-theme-test
 url: https://mmistakes.github.io
 twitter_username: mmistakes
 github_username: mmistakes
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: air
 
 # Build settings
 markdown: kramdown
