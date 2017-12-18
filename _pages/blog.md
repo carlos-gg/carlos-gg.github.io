@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-Test blog page.
+Random ideas on open science, exoplanets, scientific computing and machine learning.
 
 {% for post in site.posts %}
     {% include archive-single.html %}
