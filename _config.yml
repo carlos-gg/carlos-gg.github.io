@@ -18,7 +18,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 url: https://carlgogo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 github_username: carlgogo
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser: #"/assets/images/500x300.png"
 search: true
 twitter_username:
 
