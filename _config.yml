@@ -1,27 +1,109 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
+# which you are expected to set up once and rarely edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server
-# process.
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-title: Carlos Alberto Gomez Gonzalez homepage
+minimal_mistakes_skin: "air"
+
+# Site Settings
+locale: "en"
+title: Carlgogo's homepage
+name: Carlos Alberto Gomez Gonzalez
 email: carlosgg33@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Test
-baseurl:
-url: https://carlgogo.github.io
-twitter_username:
+baseurl: # the subpath of your site, e.g. "/blog"
+url: https://carlgogo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 github_username: carlgogo
-minimal_mistakes_skin: "air"
+teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+search: true
+twitter_username:
+
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+
+
+# Site Author
+author:
+  name             : "Carlos Alberto Gomez Gonzalez"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Bio"
+  email            : carlosgg33@gmail.com
+  uri              : "https://carlgogo.github.io"
+  location         : "Somewhere"
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : carlgogo
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : carlosalbertogomezgonzalez
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -38,24 +120,6 @@ plugins:
   - jemoji
   - jekyll-remote-theme
 
-author:
-  name   : "Carlos Alberto Gomez Gonzalez"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Bio"
-  email  : carlosgg33@gmail.com
-  uri    : "https://carlgogo.github.io"
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 defaults:
   # _posts
@@ -66,7 +130,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: #true
       share: true
       related: true
 
