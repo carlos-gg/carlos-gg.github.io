@@ -35,8 +35,8 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Research chair in data science for Earth, Space and Environmental Sciences"
   email            : carlosgg33@gmail.com
-  uri              : "https://carlgogo.github.io"
-  location         : "Somewhere"
+  uri              : #"https://carlgogo.github.io"
+  location         : #"Somewhere"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -131,6 +131,6 @@ defaults:
       author_profile: true
       read_time: #true
       comments: #true
-      share: true
+      share: #true
       related: true
 
