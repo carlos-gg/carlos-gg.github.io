@@ -1,6 +1,1 @@
-I am an astronomer and data scientist working at the interface of direct
-imaging of extrasolar planetary systems and machine learning. Following my
-interest in open research practices, I develop open- source scientific
-computing tools featuring advanced image processing and data analysis algorithms
-for astronomy. My aim is to conduct research in cross-disciplinary environments,
-applying cutting-edge methods and following innovative scientific workflows.
+I am an astronomer and data scientist working at the interface of direct imaging of extrasolar planetary systems and machine learning. Following my interest in open research practices, I develop open- source scientific computing tools featuring advanced image processing and data analysis algorithms for astronomy. My aim is to conduct research in cross-disciplinary environments, applying cutting-edge methods and following innovative scientific workflows.
