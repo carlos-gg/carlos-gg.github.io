@@ -33,10 +33,10 @@ analytics:
 author:
   name             : "Carlos Alberto Gomez Gonzalez"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Research chair in data science for Earth, Space and Environmental Sciences"
+  bio              : "Research chair in data science for Earth, Space and Environmental Sciences, Grenoble Alpes Data Institute"
   email            : carlosgg33@gmail.com
   uri              : #"https://carlgogo.github.io"
-  location         : #"Somewhere"
+  location         : "Grenoble, France"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
