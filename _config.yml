@@ -19,7 +19,7 @@ url: https://carlgogo.github.io # the base hostname & protocol for your site e.g
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 github_username: carlgogo
 teaser: #"/assets/images/500x300.png"
-search: true
+search: #true
 twitter_username:
 
 # Analytics
