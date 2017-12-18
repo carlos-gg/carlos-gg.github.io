@@ -33,7 +33,7 @@ analytics:
 author:
   name             : "Carlos Alberto Gomez Gonzalez"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Bio"
+  bio              : "Research chair in data science for Earth, Space and Environmental Sciences"
   email            : carlosgg33@gmail.com
   uri              : "https://carlgogo.github.io"
   location         : "Somewhere"
@@ -129,7 +129,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: #true
       comments: #true
       share: true
       related: true
