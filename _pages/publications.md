@@ -11,6 +11,7 @@ For a complete list of publications take a look at my [CV](https://carlgogo.gith
 
 ### Supervised detection of exoplanets (2017, Astronomy & Astrophysics)
 We reformulate the exoplanet detection task (for [angular differential imaging](https://vimeo.com/125547220) sequences) building on well-established machine learning techniques to take high-contrast imaing post-processing from an unsupervised to a supervised learning context. In this new framework, we presented algorithmic solutions using two different discriminative models: SODIRF (random forests) and SODINN (neural networks). The proposed supervised detection framework outperforms state-of-the-art techniques in the task of discriminating planet signal from speckles. For instance, SODINN improves the true positive rate by a factor ranging from ∼2 to ∼10 wrt. low-rank based approaches, working at the same false positive rate. [ArXiv](https://arxiv.org/abs/1712.02841).
+
 ![SODINN framework](/assets/images/sodinn.png){:width="500px"}
 
 ### VIP (2017, Astronomical Journal)
@@ -22,4 +23,5 @@ Inspired by recent advances in machine learning algorithms such as robust PCA, w
 
 ## PhD Thesis
 _Advanced data processing for high-contrast imaging-Pushing exoplanet direct detection limits with machine learning_. 2017, Université de Liège. Supervisors: Prof. Jean Surdej, Prof. Marc Van Droogenbroeck and Dr. Olivier Absil. [ORBi link](http://orbi.ulg.ac.be/handle/2268/214337).
+
 ![Thesis](/assets/images/thesis.jpg){:width="500px"}
