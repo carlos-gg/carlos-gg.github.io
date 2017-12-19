@@ -13,7 +13,7 @@ The Vortex Image Processing (VIP) library is a python package dedicated to astro
 
 LLSG
 ----
-Inspired by recent advances in machine learning algorithms such as robust PCA, we proposed the low-rank plus sparse plus Gaussian noise decomposition of [angular differential imaging](https://vimeo.com/125547220) sequences. [ArXiv](https://arxiv.org/abs/1602.08381) link.
+Inspired by recent advances in machine learning algorithms such as robust PCA, we proposed the Low-rank plus Sparse plus Gaussian noise (LLSG) decomposition of [angular differential imaging](https://vimeo.com/125547220) sequences. [ArXiv](https://arxiv.org/abs/1602.08381) link.
 
 Supervised detection of exoplanets
 ----------------------------------
