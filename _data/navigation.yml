@@ -4,10 +4,10 @@ main:
     url: /publications/
   - title: "Blog"
     url: /blog/
+  - title: "Talks"
+    url: /talks/
   - title: "CV"
     url: https://carlgogo.github.io/assets/cv/cv.pdf
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
