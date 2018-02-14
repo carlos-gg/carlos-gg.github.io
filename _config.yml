@@ -136,6 +136,6 @@ defaults:
       share: #true
       related: true
       header:
-        title: My titulo es
+        title: Academic + Data + Science
         overlay_image: /assets/images/header_image.jpg
         overlay_filter: 0.5
