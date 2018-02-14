@@ -13,13 +13,15 @@ title: Academic + Data + Science
 name: Carlos Alberto Gomez Gonzalez
 email: carlosgg33@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Test
+  Carlos Alberto Gomez Gonzalez's homepage. Research data scientist @ Grenoble
+  Alpes Data Institute. keywords -- data science, mage processing, machine
+  learning, exoplanets, direct imaging, python, open-source.
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://carlgogo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: carlgogo/carlgogo.github.io  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 github_username: carlgogo
-teaser: #"/assets/images/500x300.png"
-search: #true
+teaser: "/assets/images/bio-photo.jpg"
+search: true
 
 # Analytics
 analytics:
