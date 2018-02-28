@@ -14,10 +14,10 @@ We reformulate the exoplanet detection task (for [angular differential imaging](
 
 ![SODINN framework](/assets/images/sodinn.png){:width="600px"}
 
-### VIP (2017, Astronomical Journal)
+### VIP: Vortex Image Processing Package for High-contrast Direct Imaging (2017, Astronomical Journal)
 The Vortex Image Processing (VIP) library is a python package dedicated to astronomical high-contrast imaging. It relies on the extensive python stack of scientific libraries and aims to provide a flexible framework for high-contrast data and image processing. [ArXiv](https://arxiv.org/abs/1705.06184), [Github](https://github.com/vortex-exoplanet/VIP).
 
-### LLSG (2016, Astronomy & Astrophysics)
+### Low-rank plus sparse decomposition for exoplanet detection in direct-imaging ADI sequences. The LLSG algorithm (2016, Astronomy & Astrophysics)
 Inspired by recent advances in machine learning algorithms such as robust PCA, we proposed the Low-rank plus Sparse plus Gaussian noise (LLSG) decomposition of [angular differential imaging](https://vimeo.com/125547220) sequences. [ArXiv](https://arxiv.org/abs/1602.08381).
 
 

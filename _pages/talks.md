@@ -9,6 +9,12 @@ Most of my presentations are collected in my [Speaker Deck profile](https://spea
 
 ## Selected talks:
 
+### Academic Data Science: conducting research at the interface of different disciplines
+
+Data Club @ UGA first seminar. I presented my work on image analysis and machine learning for astronomy, and the study of extra-solar planets via direct imaging. Then, I discussed the many challenges that we face as academic data scientists working at the interface of several disciplines. Finally, I concluded by listing some of the exciting opportunities that data science opens for us, young researchers, and our future (perhaps academic) careers.
+
+<script async class="speakerdeck-embed" data-id="f8cdb91a736a4529b5c9d87c7b29feac" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 ### High-contrast imaging post-processing methods for exoplanet detection and characterization
 
 Talk given at INRIA Grenoble - Rhône-Alpes. Here I presented my latests results on "Supervised detection of exoplanets in high-contrast image sequences" (see publications section).  

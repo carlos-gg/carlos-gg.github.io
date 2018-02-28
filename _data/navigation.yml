@@ -6,6 +6,8 @@ main:
     url: /blog/
   - title: "Talks"
     url: /talks/
+  - title: "Software"
+    url: /software/
   - title: "CV"
     url: https://carlgogo.github.io/assets/cv/cv.pdf
   # - title: "Sample Collections"
