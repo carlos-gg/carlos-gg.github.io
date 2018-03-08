@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-Please check out my [Github](https://github.com/carlgogo/) profile.
+Please check out my [Github](https://github.com/carlgogo/) profile. 
 
 ## VIP
 
