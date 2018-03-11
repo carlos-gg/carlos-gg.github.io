@@ -9,7 +9,8 @@ main:
   - title: "Software"
     url: /software/
   - title: "CV"
-    url: https://carlgogo.github.io/assets/cv/cv.pdf
+    url: /cv/
+  #  url: https://carlgogo.github.io/assets/cv/cv.pdf
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
