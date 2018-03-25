@@ -1,6 +1,8 @@
 ---
 title:  "Talks"
 layout: collection
+collection: portfolio
+entries_layout: grid
 permalink: /talks/
 author_profile: true
 ---
@@ -29,4 +31,4 @@ Data Club @ UGA first seminar. I presented my work on image analysis and machine
 
 Talk given at INRIA Grenoble - Rhône-Alpes. Here I presented my latests results on "Supervised detection of exoplanets in high-contrast image sequences" (see publications section).  
 
-<script async class="speakerdeck-embed" data-id="a7a63b63ac354fdaac062d0069dc7b16" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"</script>
+<script async class="speakerdeck-embed" data-id="a7a63b63ac354fdaac062d0069dc7b16" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
