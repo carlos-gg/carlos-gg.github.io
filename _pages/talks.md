@@ -13,11 +13,9 @@ Most of my presentations are collected in my [Speaker Deck profile](https://spea
 
 Talk presented at the [Data science in the Alps workshop](https://data-institute.univ-grenoble-alpes.fr/news-and-events/workshop-data-science-in-the-alps-732959.htm?RH=10277933017461015). The program of this meeting was composed of a mixture of talks about methodological research and about various scientific applications of data science.
 
-<div
-<object width="1200" height="1200">
+<object width="400" height="400">
 <script async class="speakerdeck-embed" data-id="9d223467867b4d6f8a67a5f333ab4def" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </object>
-</div>
 
 ### Chasing exoplanets with Python and machine learning
 
