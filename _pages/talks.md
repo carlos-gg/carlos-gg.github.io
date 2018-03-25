@@ -1,8 +1,6 @@
 ---
 title:  "Talks"
-layout: collection
-collection: portfolio
-entries_layout: grid
+layout: single
 permalink: /talks/
 author_profile: true
 ---
