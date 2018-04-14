@@ -7,6 +7,12 @@ author_profile: true
 
 I publish my presentations on [Speaker Deck](https://speakerdeck.com/carlgogo/). See below a few selected talks: 
 
+## Exoplanet direct imaging data challenge
+
+Presentation given at the Paris-Saclay Center for Data Science (INRIA Saclay) on the topic of data challenges for astronomical high-contrast imaging and direct detection of exoplanets.
+
+<script async class="speakerdeck-embed" data-id="c6c801d3a653414c864c4faf86a903d4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 ## Data Science in astronomical image processing: looking for exoplanets using machine learning
 
 Talk presented at the [Data science in the Alps workshop](https://data-institute.univ-grenoble-alpes.fr/news-and-events/feedback-of-the-workshop-data-science-in-the-alps--743560.htm?RH=10277933037836520). The program of this meeting was composed of a mixture of talks about methodological research and about various scientific applications of data science. The slides can be found [here](https://speakerdeck.com/carlgogo/data-science-in-astro-image-processing-looking-for-exoplanets-using-machine-learning).
