@@ -7,11 +7,11 @@ author_profile: true
 
 I publish my presentations on [Speaker Deck](https://speakerdeck.com/carlgogo/). See below a few selected talks: 
 
-## Data Science in astro image processing: looking for exoplanets using machine learning
+## Data Science in astronomical image processing: looking for exoplanets using machine learning
 
-Talk presented at the [Data science in the Alps workshop](https://data-institute.univ-grenoble-alpes.fr/news-and-events/workshop-data-science-in-the-alps-732959.htm?RH=10277933017461015). The program of this meeting was composed of a mixture of talks about methodological research and about various scientific applications of data science.
+Talk presented at the [Data science in the Alps workshop](https://data-institute.univ-grenoble-alpes.fr/news-and-events/feedback-of-the-workshop-data-science-in-the-alps--743560.htm?RH=10277933037836520). The program of this meeting was composed of a mixture of talks about methodological research and about various scientific applications of data science. The slides can be found [here](https://speakerdeck.com/carlgogo/data-science-in-astro-image-processing-looking-for-exoplanets-using-machine-learning).
 
-<script async class="speakerdeck-embed" data-id="9d223467867b4d6f8a67a5f333ab4def" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YPkeSnVwg9k?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Chasing exoplanets with Python and machine learning
 
