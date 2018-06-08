@@ -15,5 +15,5 @@ VIP is a python package/library for angular, reference star and spectral differe
 pip install vip_hci
 ```
 
-![SODINN framework](/assets/images/vip.jpg){:width="700px"}
+![SODINN framework](/assets/images/vip.png){:width="700px"}
 
