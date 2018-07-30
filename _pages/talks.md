@@ -7,11 +7,15 @@ author_profile: true
 
 I publish my presentations on [Speaker Deck](https://speakerdeck.com/carlgogo/). See below a few selected talks: 
 
+## Exoplanet direct imaging meets data science
+> Talk given at NASA ARC center and Stanford in June 2018. The slides present my Data Science approach to the problem of direct detection of exoplanets, leveraging recent developments in Machine/Deep Learning and the practices from the open-source Python community.
+
+<script async class="speakerdeck-embed" data-id="ce4ed242e8d8459c908ac2e3f0630a3a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 ## Image/data processing for direct imaging of exoplanets (PyAstro2018)
 > Lightning talk presented during the Python in Astronomy 2018 workshop @ Center for Computational Astrophysics, Flatiron Institute, New York. The slides present two Python packages for direct imaging of exoplanets: VIP and SODINN. VIP is an package for differential imaging and high-contrast imaging data analysis. SODINN is focused on deep learning applied to pattern recognition for detection of exoplanets in high-contrast imaging sequences.
 
 <script async class="speakerdeck-embed" data-id="2ee2309ee8b84a0bad3cd96ca6411bd1" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-
 
 ## Exoplanet direct imaging data challenge
 > Presentation given at the Paris-Saclay Center for Data Science (INRIA Saclay) on the topic of data challenges for astronomical high-contrast imaging and direct detection of exoplanets.
