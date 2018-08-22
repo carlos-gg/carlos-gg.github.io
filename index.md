@@ -11,3 +11,7 @@ I received a PhD from the University of Liege (Belgium). During my thesis, I dev
 _"Essentially, all models are wrong, but some are useful"_, George Box.
 
 _"...if the model is going to be wrong anyway, why not see if you can get the computer to ‘quickly’ learn a model from the data, rather than have a human laboriously derive a model from a lot of thought"_, Peter Norvig.
+
+------------
+
+_"If you're not having fun, you're not learning. There's a pleasure in finding things out."_, Richard Feynman.
