@@ -7,6 +7,11 @@ author_profile: true
 
 I publish my presentations on [Speaker Deck](https://speakerdeck.com/carlgogo/). See below a few selected talks: 
 
+## A la caza de exoplanetas por imagen directa con Python: De la ciencia de datos, la exoplanetología y otros demonios
+> Charla presentada en la PyconES 2018 (Málaga, España).
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 74.9288%;"><iframe src="//speakerdeck.com/player/bf1bd3e399ec4e248c73c2acb63bc7cb" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
+
 ## Exoplanet direct imaging meets data science
 > Talk given at NASA ARC center and Stanford in June 2018. The slides present my Data Science approach to the problem of direct detection of exoplanets, leveraging recent developments in Machine/Deep Learning and the practices from the open-source Python community.
 
