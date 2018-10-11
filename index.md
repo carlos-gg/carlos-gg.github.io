@@ -2,7 +2,7 @@ Junior research chair in data science for Earth, Space and Environmental Science
 
 I received a PhD from the University of Liege (Belgium). My thesis project consisted in the development of open-source software packages and novel algorithmic approaches to push the detection limits of high-contrast imaging instruments. In particular, I have approached the task of exoplanet detection in angular differential imaging sequences from a supervised machine learning perspective. 
 
-I wear several hats in my job as a research data scientist working at the interface of scientific data processing and machine learning. I spend a great deal of time developing open-source scientific computing tools and spreading the word about open research practices. The rest of the time, I am drawing inspiration from the field of artificial intelligence create innovative algorithms for multi-dimensional data processing (mostly image sequences with temporal, spectral or other additional dimensions).   
+I wear several hats in my job as a research data scientist working at the interface of scientific data processing and machine learning. I spend a great deal of time developing open-source scientific computing tools, planning [data challenges](https://carlgogo.github.io/exoimaging_challenge/) and spreading the word about open research practices. The rest of the time, I spend drawing inspiration from the field of artificial intelligence create innovative algorithms for multi-dimensional data processing (mostly image sequences with temporal, spectral or other additional dimensions).   
 
 
 ------------
