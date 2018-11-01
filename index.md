@@ -1,16 +1,9 @@
-Junior research chair in data science for Earth, Space and Environmental Sciences at the [Grenoble Alpes Data Institute](https://data-institute.univ-grenoble-alpes.fr/). My goal is to conduct research in interdisciplinary and open research environments, developing and applying cutting-edge techniques, and following innovative scientific workflows.
+Research chair in data science for Earth, Space and Environmental Sciences at the [Grenoble Alpes Data Institute](https://data-institute.univ-grenoble-alpes.fr/). I received a PhD from the University of Liege (Belgium), where I worked on the development of novel algorithmic techniques for astronomical high-contrast imaging. In particular, I have approached the task of directly imaging exoplanets from a supervised deep machine learning perspective and proposed the SODINN framework for exoplanet detection. 
 
-I received a PhD from the University of Liege (Belgium). My thesis project consisted in the development of open-source software packages and novel algorithmic approaches to push the detection limits of high-contrast imaging instruments. In particular, I have approached the task of exoplanet detection in angular differential imaging sequences from a supervised machine learning perspective. 
+I wear several hats in my daily work as a research data scientist interested in interfacing scientific data processing and machine learning. Therefore, I draw inspiration from the artificial intelligence (AI) literature to create innovative algorithms for multi-dimensional data processing (e.g. image sequences with temporal, spectral or other additional dimensions). My interest in open research makes me spend a great deal of time developing open-source scientific computing tools, planning [data challenges](https://carlgogo.github.io/exoimaging_challenge/) and [spreading the word about open research practices](https://grenoble-alpes-data-institute.github.io/2018-05-31-grenoble-software-carpentry/). 
 
-I wear several hats in my job as a research data scientist working at the interface of scientific data processing and machine learning. I spend a great deal of time developing open-source scientific computing tools, planning [data challenges](https://carlgogo.github.io/exoimaging_challenge/) and spreading the word about open research practices. The rest of the time, I spend drawing inspiration from the field of artificial intelligence create innovative algorithms for multi-dimensional data processing (mostly image sequences with temporal, spectral or other additional dimensions).   
+Nowadays, my interest is shifting towards the application of data science and AI for the solution of some of society's biggest challenges, such as environmental sustainability and climate change.    
 
-
-------------
-
-
-_"Essentially, all models are wrong, but some are useful"_, George Box.
-
-_"...if the model is going to be wrong anyway, why not see if you can get the computer to ‘quickly’ learn a model from the data, rather than have a human laboriously derive a model from a lot of thought"_, Peter Norvig.
 
 ------------
 
