@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-Feel free to visit my [Github](https://github.com/carlgogo/) profile and check my repositories. Below a few selected ones: 
+Feel free to visit my [Github](https://github.com/carlgogo/) profile. Below, a few selected repositories with code for astronomical high-contrast imaging: 
 
 ## VIP
 
@@ -20,8 +20,8 @@ pip install vip_hci
 
 ## supervised-detection-exoplanets-hci
 
-Code for the paper: ["Supervised detection of exoplanets in high-contrast imaging sequences"](https://www.aanda.org/articles/aa/abs/2018/05/aa31961-17/aa31961-17.html), Gomez Gonzalez et al 2018. Developed in Python 2 but compatible with Python 3. This package enables the generation of labeled data (MLAR smaples) for training machine learning classifiers. It also contains a function for building and training the neural network model that succesfully exploits the 3 dimensions of the training samples (hybrid convolutional and recurrent network). Keras/Tensorflow were used for the implementing network. Finally, it also contains the code for generating the ROC curves (figures 7 and 8) comparing the supervised detection framework to standard model PSF subtraction techniques.
+Code for the paper: ["Supervised detection of exoplanets in high-contrast imaging sequences"](https://www.aanda.org/articles/aa/abs/2018/05/aa31961-17/aa31961-17.html), Gomez Gonzalez et al 2018. Developed in Python 2 but compatible with Python 3. This package enables the generation of labeled data (MLAR smaples) for training machine learning classifiers. It also contains a function for building and training the neural network model that succesfully exploits the 3 dimensions of the training samples (hybrid convolutional and recurrent network). Keras/Tensorflow were used for the implementing network. Finally, it also contains the code for generating the ROC curves (figures 7 and 8) comparing the supervised detection framework to standard model PSF subtraction techniques. Code on [GitHub](https://github.com/carlgogo/supervised-detection-exoplanets-hci).
 
 ## PyAstrOFit
 
-Python package dedicated to the planet orbit fitting using Markov chain Monte Carlo (MCMC) methods.
+Python package dedicated to the planet orbit fitting using Markov chain Monte Carlo (MCMC) methods. [GitHub repository](https://github.com/vortex-exoplanet/PyAstrOFit).
