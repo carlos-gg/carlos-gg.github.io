@@ -5,11 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-minimal_mistakes_skin: "air" #"dark"
+minimal_mistakes_skin: "dark" #"air"
 
 # Site Settings
 locale: "en"
-title: Academic + Data + Science
+title: AI4G
 name: Carlos Alberto Gomez Gonzalez
 email: carlosgg33@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -51,7 +51,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : carlosalbertogomezgonzalez
+  linkedin         : carlgogo
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
