@@ -135,6 +135,6 @@ defaults:
       share: #true
       related: true
       header:
-        title: Academic + Data + Science
-        overlay_image: /assets/images/header_image.jpg
-        overlay_filter: 0.5
+        title:
+        overlay_image: /assets/images/header_image_geo.jpg
+        overlay_filter: 0.6
