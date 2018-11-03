@@ -137,4 +137,4 @@ defaults:
       header:
         title:
         overlay_image: /assets/images/header_image_geo.jpg
-        overlay_filter: 0.4
+        overlay_filter: 0.2
