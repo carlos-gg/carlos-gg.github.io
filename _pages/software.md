@@ -3,6 +3,9 @@ title:  "Software"
 layout: single
 permalink: /software/
 author_profile: true
+header:
+        overlay_image: /assets/images/header_image_astro.jpg
+        overlay_filter: 0.2
 ---
 
 Feel free to visit my [Github](https://github.com/carlgogo/) profile. Below, a few selected repositories with code for astronomical high-contrast imaging: 

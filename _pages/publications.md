@@ -3,7 +3,9 @@ title:  "Publications"
 layout: single
 permalink: /publications/
 author_profile: true
-
+header:
+        overlay_image: /assets/images/header_image_astro.jpg
+        overlay_filter: 0.2
 ---
 
 For a complete list of publications take a look at my [CV](https://carlgogo.github.io/assets/cv/cv.pdf) or my [Google Scholar profile](https://scholar.google.fr/citations?user=UJBh1DUAAAAJ&hl=en).
