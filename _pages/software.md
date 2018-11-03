@@ -4,7 +4,7 @@ layout: single
 permalink: /software/
 author_profile: true
 header:
-        overlay_image: /assets/images/header_image_astro.jpg
+        overlay_image: /assets/images/header_image_github.jpg
         overlay_filter: 0.2
 ---
 

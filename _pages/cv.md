@@ -3,6 +3,9 @@ title:  "CV"
 layout: single
 permalink: /cv/
 author_profile: false
+header:
+        overlay_image: /assets/images/header_image_github.jpg
+        overlay_filter: 0.2
 ---
 
 
