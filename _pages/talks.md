@@ -3,6 +3,9 @@ title:  "Talks"
 layout: single
 permalink: /talks/
 author_profile: true
+header:
+        overlay_image: /assets/images/header_image_astro.jpg
+        overlay_filter: 0.2
 ---
 
 I publish my presentations on [Speaker Deck](https://speakerdeck.com/carlgogo/). See below a few selected talks: 
