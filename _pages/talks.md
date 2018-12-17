@@ -11,9 +11,9 @@ header:
 I publish my presentations on [Speaker Deck](https://speakerdeck.com/carlgogo/). See below a few selected talks: 
 
 ## A la caza de exoplanetas por imagen directa con Python: De la ciencia de datos, la exoplanetología y otros demonios
-> Charla presentada en la PyconES 2018 (Málaga, España).
+> Charla presentada en la PyconES 2018 (Málaga, España). [Slides](https://speakerdeck.com/carlgogo/a-la-caza-de-exoplanetas-por-imagen-directa-con-python-de-la-ciencia-de-datos-la-exoplanetologia-y-otros-demonios).
 
-<a class="embedly-card" data-card-theme="dark" href="https://speakerdeck.com/carlgogo/a-la-caza-de-exoplanetas-por-imagen-directa-con-python-de-la-ciencia-de-datos-la-exoplanetologia-y-otros-demonios">A la caza de exoplanetas por imagen directa con Python: De la ciencia de datos, la exoplanetología y otros demonios</a>
+<a class="embedly-card" data-card-theme="dark" href="https://www.youtube.com/watch?v=J2rmOKPZgl8">A la caza de exoplanetas por imagen directa con Python - Carlos Alberto Gomez</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Exoplanet direct imaging meets data science
