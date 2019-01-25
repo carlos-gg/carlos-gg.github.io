@@ -7,7 +7,7 @@ author_profile: true
 tags:
 ---
 
-TLDR: Go straight to the [mind map](https://carlgogo.github.io/AI4G_mindmap/){:target="_blank"}.
+TLDR: Shut up and show me the [map](https://carlgogo.github.io/AI4G_mindmap/){:target="_blank"}.
 
 Humanity is reaching an inflection point in terms of its technological development. At the same time, we are reevaluating our place on Earth and rethinking how to build a fairer society. Can artificial intelligence (AI, machine learning, statistical learning or however you want to call it) serve to tackle societal and environmental challenges? Yes, absolutely. In fact, the same algorithms used to recommend products on an e-commerce website, or choose the ads shown to you, can be used to solve real human problems. All data scientists, from aspiring ones to researchers, have the opportunity (and even the responsibility) to take advantage of the current data revolution to improve our world.
 
@@ -28,7 +28,7 @@ Without further ado, the *Data Science and AI for good* mind map can be found [h
 * *organizations* : leads to institutions and organizations. It might be interesting to those looking for volunteering or consulting opportunities,
 * *entrepreneurship* : this node points to grant opportunities for AI/tech startups working on social good or pro-environmental causes.
 
-I hope this mind map serves as a good reference and motivates you to make data and technology serve the common good. If you know of any resources that are missing and deserve to be added, please reach out via [email](carlosgg33@gmail.com) or by using the [issues section](https://github.com/carlgogo/AI4G_mindmap/issues){:target="_blank"} of the GitHub repository.
+I hope this mind map serves as a good reference and motivates you to make data and technology serve the common good. If you know of any resources that are missing and deserve to be added, please reach out via [email](mailto:carlosgg33@gmail.com) or by using the [issues section](https://github.com/carlgogo/AI4G_mindmap/issues){:target="_blank"} of the GitHub repository.
 
 PS: A similar TW+TM web application is being prepared with a larger mind map exploring the landscape of AI and data science, full of free and valuable resources. Stay tuned!
 
