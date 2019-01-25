@@ -7,7 +7,7 @@ author_profile: true
 tags:
 ---
 
-TLDR: Shut up and show me the [map](https://carlgogo.github.io/AI4G_mindmap/){:target="_blank"}.
+TL;DR: Shut up and show me the [map](https://carlgogo.github.io/AI4G_mindmap/){:target="_blank"}.
 
 Humanity is reaching an inflection point in terms of its technological development. At the same time, we are reevaluating our place on Earth and rethinking how to build a fairer society. Can artificial intelligence (AI, machine learning, statistical learning or however you want to call it) serve to tackle societal and environmental challenges? Yes, absolutely. In fact, the same algorithms used to recommend products on an e-commerce website, or choose the ads shown to you, can be applied to solve real human problems. All data scientists, from aspiring ones to researchers, have the opportunity (and even the responsibility) to take advantage of the current data revolution to improve our world.
 
