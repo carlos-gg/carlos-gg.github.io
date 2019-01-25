@@ -10,6 +10,8 @@ main:
     url: /cv/
   - title: "Blog"
     url: /blog/
+  - title: "AI4Good"
+    url: https://carlgogo.github.io/AI4G_mindmap/
 
 
   # - title: "Sample Collections"

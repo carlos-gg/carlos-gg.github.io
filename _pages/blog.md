@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-Random ideas on open science, exoplanets, scientific computing and machine learning.
+Random ideas about open science, AI, Python, scientific computing, machine learning and life in general.
 
 {% for post in site.posts %}
     {% include archive-single.html %}
