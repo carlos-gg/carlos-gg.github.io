@@ -1,11 +1,14 @@
 ---
-title: "Data Science and AI for good"
+title: "Data Science and AI for good - The ultimate mind map"
 excerpt_separator: "<!--more-->"
 date: 2019-01-24
 layout: single
 author_profile: true
 tags:
 ---
+
+TLDR: Go straight to the [mind map](https://carlgogo.github.io/AI4G_mindmap/)
+
 Humanity is reaching an inflection point in terms of its technological development. At the same time, we are reevaluating our place on Earth and rethinking how to build a fairer society. Can artificial intelligence (AI, machine learning, statistical learning or however you want to call it) serve to tackle societal and environmental challenges? Yes, absolutely. In fact, the same algorithms used to recommend products on an e-commerce website, or choose the ads shown to you, can be used to solve real human problems. All data scientists, from aspiring ones to researchers, have the opportunity (and even the responsibility) to take advantage of the current data revolution for improving our world.
 
 <!--more-->
