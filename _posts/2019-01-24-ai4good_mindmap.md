@@ -7,13 +7,13 @@ author_profile: true
 tags:
 ---
 
-TLDR: Go straight to the [mind map](https://carlgogo.github.io/AI4G_mindmap/).
+TLDR: Go straight to the [mind map](https://carlgogo.github.io/AI4G_mindmap/){:target="_blank"}.
 
 Humanity is reaching an inflection point in terms of its technological development. At the same time, we are reevaluating our place on Earth and rethinking how to build a fairer society. Can artificial intelligence (AI, machine learning, statistical learning or however you want to call it) serve to tackle societal and environmental challenges? Yes, absolutely. In fact, the same algorithms used to recommend products on an e-commerce website, or choose the ads shown to you, can be used to solve real human problems. All data scientists, from aspiring ones to researchers, have the opportunity (and even the responsibility) to take advantage of the current data revolution to improve our world.
 
 <!--more-->
 
-But let's be clear, this is a complex endeavour. It requires cross-disciplinary and multi-sector collaborations involving governments, NGOs, private organizations and academia. Otherwise, it will be too easy to fall for the AI hype instead of understanding it as a tool to augment our abilities. Only solutions backed up by research and deep understanding of the respective problem domain will be robust (remember the [scientific method](https://en.wikipedia.org/wiki/Scientific_method)){:target="_blank"} and effective.
+But let's be clear, this is a complex endeavour. It requires cross-disciplinary and multi-sector collaborations involving governments, NGOs, private organizations and academia. Otherwise, it will be too easy to fall for the AI hype instead of understanding it as a tool to augment our abilities. Only solutions backed up by research and deep understanding of the respective problem domain will be robust (remember the [scientific method](https://en.wikipedia.org/wiki/Scientific_method){:target="_blank"}) and effective.
 
 Is academic research the only way to use AI for good? How can we as data scientists help? My initial impulse was to browse the web and look for existing initiatives. This browsing-the-web exercise got a bit more serious than initially planned (it's winter outside anyways). Turns out, there are many caring people and great initiatives related, in some or other way, to the *Data Science and AI for good* movement. This is very encouraging, but it's clear there is so much left to be done!
 
