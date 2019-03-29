@@ -18,7 +18,7 @@ VIP is a Python package/library for angular, reference star and spectral differe
 pip install vip_hci
 ```
 
-![VIP](/assets/images/vip.png){:width="700px"}
+![VIP](/assets/images/vip.png){:width="800px"}
 
 
 ## VIP extras
@@ -33,7 +33,7 @@ High-contrast Imaging Plotting library. The goal of this library is to be the "S
 pip install hciplot
 ```
 
-![hciplot](/assets/images/hciplot.png){:width="700px"}
+![hciplot](/assets/images/hciplot.png){:width="800px"}
 
 
 ## supervised-detection-exoplanets-hci
