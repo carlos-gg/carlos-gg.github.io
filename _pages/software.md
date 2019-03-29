@@ -27,7 +27,7 @@ Datacubes, Jupyter tutorials and other materials related to VIP.
 
 ## HCIplot
 
-High-contrast Imaging Plotting library. The goal of this library is to be the "Swiss army" solution for plotting and visualizing multi-dimensional high-contrast imaging datacubes on Jupyter lab. While visualizing FITS files is straightforward with SaoImage DS9 or any other FITS viewer, exploring the content of an HCI datacube as an in-memory numpy array (for example when running your Jupyter session on a remote machine) is far from easy.
+High-contrast Imaging Plotting library. The goal of this library is to be the "Swiss army" solution for plotting and visualizing multi-dimensional high-contrast imaging datacubes on Jupyter lab. 
 
 ```bash
 pip install hciplot
