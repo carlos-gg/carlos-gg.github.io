@@ -8,7 +8,17 @@ header:
         overlay_filter: 0.2
 ---
 
-Feel free to visit my [Github](https://github.com/carlgogo/) profile. Below, a few selected repositories with code for astronomical high-contrast imaging: 
+Almost everything I code is open source and goes to [Github](https://github.com/carlgogo/). Feel free to take a look. Below, a few selected repositories with code for astronomical high-contrast imaging: 
+
+## SODINN
+
+The SODINN package is the consolidation and evolution of the framework
+proposed in Gomez Gonzalez et al. 2018. This is work in progress and is
+being developed "in the open" (see the repository on [Github](https://github.com/carlgogo/sodinn)), as an exercise of open science. This framework
+for exoplanet detection in multidimensional (3d and 4d arrays) 
+high-contrast imaging datacubes consists of 2 main components: a 
+labeled data generation system and a discriminator, in the form of a 
+deep neural network.  
 
 ## VIP
 
