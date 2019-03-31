@@ -2,7 +2,7 @@ Research chair in data science for Earth, Space and Environmental Sciences at th
 
 I wear several hats in my daily work as a research data scientist interested in interfacing scientific data processing and machine learning. On one hand, I draw inspiration from the artificial intelligence (AI) literature to create innovative algorithms for multi-dimensional data processing (e.g. image sequences with temporal, spectral or other additional dimensions). On the other hand, my interest in open research makes me spend a great deal of time developing open-source scientific computing [tools](https://github.com/carlgogo/), conducting data [challenges](https://carlgogo.github.io/exoimaging_challenge/) and spreading the word about open research [practices](https://grenoble-alpes-data-institute.github.io/2018-05-31-grenoble-software-carpentry/).
 
-Nowadays, my interest is shifting towards the application of data science and AI for the solution of some of society's biggest challenges, such as environmental sustainability and climate change.    
+I am passionate about the development of effective solutions at the interface between Artificial Intelligence, academia and entrepreneurship for tackling humanity's biggest challenges.   
 
 
 ------------
