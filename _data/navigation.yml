@@ -6,10 +6,12 @@ main:
     url: /talks/
   - title: "Software"
     url: /software/
-  - title: "CV/Resume"
+  - title: "CV"
     url: /cv/
   - title: "Blog"
     url: /blog/
+  - title: "ExoImChallenge"
+    url: https://exoplanet-imaging-challenge.github.io/
   - title: "AI4Good"
     url: https://carlgogo.github.io/AI4G_mindmap/
 
