@@ -1,0 +1,6 @@
+
+*.iml
+.idea/
+_site/
+.jekyll-metadata
+Gemfile.lock
