@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 header:
         overlay_image: /assets/images/header_image_github.jpg
-        overlay_filter: 0.2
+        overlay_filter: 0.0
 ---
 
 Almost everything I code is open source and goes to [Github](https://github.com/carlgogo/). Feel free to take a look. Below, a few selected repositories with code for astronomical high-contrast imaging: 
