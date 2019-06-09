@@ -10,6 +10,12 @@ header:
 
 I publish my presentations on [Speaker Deck](https://speakerdeck.com/carlgogo/). See below a few selected talks: 
 
+## Exoplanet Imaging Data Challenge
+Invited talk at the Global Challenges Science Week, Grenoble, France.
+
+<script async class="speakerdeck-embed" data-id="e437be974c1642289688c6e2161a184e" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+
 ## A data scientist’s guide to direct imaging of exoplanets
 Invited talk at the [RADA big data workshop](https://as595.github.io/RADABigData/) in Medellín, Colombia. The workshop is part of the Radio Astronomy for Development in the Americas (RADA) Big Data program, which is jointly funded by the UK Newton Fund and the Ministerio de Tecnologías de la Información y las Comunicaciones de Colombia. Feb 12, 2019. 
 
