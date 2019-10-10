@@ -36,7 +36,7 @@ author:
   bio              : "(Data) Scientist, researcher and entrepreneur"
   email            : carlosgg33@gmail.com
   uri              : #"https://carlgogo.github.io"
-  location         : #"Grenoble, France"
+  location         : "Barcelona, Spain"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -48,7 +48,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : carlos.gogo
   lastfm           :
   linkedin         : carlgogo
   pinterest        :
