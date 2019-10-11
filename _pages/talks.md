@@ -24,7 +24,7 @@ Invited talk at the [RADA big data workshop](https://as595.github.io/RADABigData
 ## A la caza de exoplanetas por imagen directa con Python: De la ciencia de datos, la exoplanetología y otros demonios
 Charla presentada en la PyconES 2018 (Málaga, España). [Slides](https://speakerdeck.com/carlgogo/a-la-caza-de-exoplanetas-por-imagen-directa-con-python-de-la-ciencia-de-datos-la-exoplanetologia-y-otros-demonios).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J2rmOKPZgl8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="J2rmOKPZgl8" provider="youtube" %}
 
 ## Exoplanet direct imaging meets data science
 Talk given at NASA ARC center and Stanford in June 2018. The slides present my Data Science approach to the problem of direct detection of exoplanets, leveraging recent developments in Machine/Deep Learning and the practices from the open-source Python community.
@@ -44,7 +44,7 @@ Presentation given at the Paris-Saclay Center for Data Science (INRIA Saclay) on
 ## Data Science in astronomical image processing: looking for exoplanets using machine learning
 Talk presented at the [Data science in the Alps workshop](https://data-institute.univ-grenoble-alpes.fr/news-and-events/feedback-of-the-workshop-data-science-in-the-alps--743560.htm?RH=10277933037836520). The program of this meeting was composed of a mixture of talks about methodological research and about various scientific applications of data science. The slides can be found [here](https://speakerdeck.com/carlgogo/data-science-in-astro-image-processing-looking-for-exoplanets-using-machine-learning).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YPkeSnVwg9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="YPkeSnVwg9k" provider="youtube" %}
 
 ## Chasing exoplanets with Python and machine learning
 PySciDataGre group launch event @ UGA. I presented, to a broad and multidisciplinary audience, two Python packages for exoplanet direct imaging: VIP and SODINN. In this presentation, I emphasized how these developments were enabled by the Python open-source scientific stack, a data science interdisciplinary approach and open-source scientific software development.
