@@ -1,5 +1,5 @@
 ---
-title:  "Software"
+title:  "Software & Challenges"
 layout: single
 permalink: /software/
 author_profile: true
@@ -8,7 +8,14 @@ header:
         overlay_filter: 0.0
 ---
 
-Almost everything I code is open source and goes to [Github](https://github.com/carlgogo/). Feel free to take a look. Below, a few selected repositories with code for astronomical high-contrast imaging: 
+# Challenges
+ 
+The [Exoplanet Imaging Data Challenge](https://exoplanet-imaging-challenge.github.io/
+) is a community-wide effort to compare algorithms for detecting exoplanets with ground-based high-contrast imaging. I led the organization of this challenge (in collaboration with several members of the high-contrast imaging community) while I worked at the Grenoble Alpes Data Institute (Université Grenoble Alpes, France).
+
+# Scientific software development
+
+Every piece of academic software I develop is open sourced and gets a repository on [Github](https://github.com/carlgogo/). Feel free to take a look! Below, a few selected repositories with code for astronomical high-contrast imaging: 
 
 ## SODINN
 
