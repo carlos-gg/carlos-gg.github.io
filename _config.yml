@@ -9,11 +9,12 @@ minimal_mistakes_skin: "air_cgg" #"dark_cgg"
 
 # Site Settings
 locale: "en"
-title: Carlgogo
+title: About me
+masthead_title: "Carlgogo"
 name: Carlos Alberto Gomez Gonzalez
 email: carlosgg33@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Carlos Alberto Gomez Gonzalez's homepage and blog.
+  Carlos Alberto Gomez Gonzalez's personal website.
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://carlgogo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository: carlgogo/carlgogo.github.io  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
