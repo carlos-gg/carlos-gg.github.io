@@ -12,7 +12,6 @@ locale: "en"
 title: About me
 masthead_title: "Carlgogo"
 name: Carlos Alberto Gomez Gonzalez
-email: carlosgg33@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Carlos Alberto Gomez Gonzalez's personal website.
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -20,7 +19,7 @@ url: https://carlgogo.github.io # the base hostname & protocol for your site e.g
 repository: carlgogo/carlgogo.github.io  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 github_username: carlgogo
 teaser: "/assets/images/bio-photo.jpg"
-search: false
+search: true
 
 # Analytics
 analytics:
