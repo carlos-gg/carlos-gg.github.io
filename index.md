@@ -6,6 +6,6 @@ After my PhD, I joined the [Grenoble Alpes Data Institute](https://data-institut
 
 The enriching experience of these two years at the Grenoble Alpes Data Institute allowed me to diversify my research interests and to expand my comfort zone when it comes to carrying out inter- and multi-disciplinary research projects. On the other hand, I had the fortune to participate in entrepreneurship bootcamps and hackathons that woke up the entrepreneur side of me.    
 
-Nowadays, I work as a post-doctoral researcher in AI for Earth Sciences, within the Computational Earth Sciences group at the BSC. Once again, I could not be more fortunate with what I do: contributing to exciting inter-disciplinary projects focusing my attention on the most important planet we know of, Earth :grin: :earth_africa:
+Nowadays, I work as a post-doctoral researcher in AI for Earth Sciences, within the Computational Earth Sciences group at the BSC. Once again, I could not be more fortunate with what I do: contributing to exciting inter-disciplinary projects while focusing my attention on the most important planet we know of, Earth! :grin: :earth_africa:
 
 In one sentence, I am passionate about developing effective solutions at the interface between AI, academia and entrepreneurship for tackling humanity's biggest challenges.   
