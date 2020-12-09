@@ -9,7 +9,7 @@ header:
         overlay_filter: 0.0
 ---
 
-Every bit of academic code I develop is [open](https://en.wikipedia.org/wiki/Open_source) and lives in a repository on [Github](https://github.com/carlgogo/). Feel free to take a look! 
+Most of the academic code I develop is [open](https://en.wikipedia.org/wiki/Open_source) and lives on [Github](https://github.com/carlgogo/), or at least that how it was until the beginning of 2020. During the past few months, I have been using a private Gitlab server at the Barcelona Supercomputing Center. My plan is to start mirroring some repositories to increase my activity on Github and the visibility of my code. 
 
 Below, are highlighted some repositories with code for past projects on astronomical high-contrast imaging (in which I am no longer involved): 
 
