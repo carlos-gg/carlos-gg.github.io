@@ -1,6 +1,7 @@
 ---
 title:  "Data Challenges"
 layout: single
+classes: wide
 permalink: /datachallenges/
 author_profile: true
 ---

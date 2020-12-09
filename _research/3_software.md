@@ -1,6 +1,7 @@
 ---
 title:  "Scientific software development"
 layout: single
+classes: wide
 permalink: /software/
 author_profile: true
 header:
