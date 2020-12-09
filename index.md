@@ -1,11 +1,16 @@
-I am a Colombian research data scientist working on Artificial Intelligence (AI) and Machine Learning for Earth Sciences at the [Barcelona Supercomputing Center](https://www.bsc.es) (BSC, Spain).
+---
+layout: single
+classes: wide
+---
 
-I received a PhD from the [University of Liege](https://www.uliege.be/), Belgium, where I worked on Computer Vision for the task of extrasolar planets detection, pioneering the application of Deep Learning to the field of astronomical high-contrast imaging. 
+¡Bienvenido!
+Welcome!
+Добро пожаловать!
+Bienvenue!
+Benvingut!
 
-After my PhD, I joined the [Grenoble Alpes Data Institute](https://data-institute.univ-grenoble-alpes.fr/) (France) as a junior research chair in Data Science for Earth, Space and Environmental sciences. My work at the Grenoble Alpes Data Institute consisted in interfacing scientific data analysis and Machine Learning, drawing inspiration from the AI literature to create innovative algorithms for multi-dimensional data processing (e.g. image sequences with temporal, spectral or other additional dimensions). My interest in open research led me to spend my time developing [open-source scientific computing tools](https://carlgogo.github.io/software/), organizing or participating in [data challenges](https://exoplanet-imaging-challenge.github.io/) and spreading the word about [open research practices](https://grenoble-alpes-data-institute.github.io/2018-05-31-grenoble-software-carpentry/). 
+This is my homepage so let me tell you a little bit about myself. I am a STARS (MSCA-COFUND) postdoctoral fellow at the Earth Sciences department of the [Barcelona Supercomputing Center](https://www.bsc.es) (BSC). 
 
-The enriching experience of these two years at the Grenoble Alpes Data Institute allowed me to diversify my research interests and to expand my comfort zone when it comes to carrying out inter- and multi-disciplinary research projects. On the other hand, I had the fortune to participate in entrepreneurship bootcamps and hackathons that woke up the entrepreneur side of me.    
+I hold a Ph.D. in Science (doctorat en Sciences) from the University of Liège (Belgium) where I carried out an interdisciplinary doctoral thesis at the interface of Computer Vision and Astrophysics. After my thesis, I worked as a "Junior research Chair in Data Science for Earth and Space sciences" at the Université Grenoble Alpes (France). 
 
-Nowadays, I work as a postdoctoral researcher in AI for Earth Sciences, within the Computational Earth Sciences group at the BSC. Once again, I could not be more fortunate with what I do: contributing to exciting inter-disciplinary projects while focusing my attention on the most important planet we know of, Earth! :grin: :earth_africa:
-
-In one sentence, I am passionate about developing effective solutions at the interface between AI, academia and entrepreneurship for tackling humanity's biggest challenges.   
+With my multidisciplinary background at the interface of software development, machine learning and scientific data science, I joined the BSC to establish a research line on Artificial Intelligence for Earth Sciences. This effort focuses on the development of machine and deep learning algorithms for topics, such as statistical downscaling and bias correction techniques, data-driven parameterisations, and the study of extreme climate events.
