@@ -4,6 +4,7 @@ layout: single
 classes: wide
 permalink: /software/
 author_profile: true
+excerpt: "Most of the academic code I develop is open and lives on Github..."
 header:
         overlay_image: /assets/images/header_image_github.jpg
         overlay_filter: 0.0
