@@ -10,14 +10,14 @@ header:
 
 Selected publications, and their corresponding open source code, from my previous research life when I studied exoplanets and astronomical high-contrast imaging:
 
-[comment]: <> (For a complete list of publications take a look at my [CV](https://carlgogo.github.io/assets/cv/cv.pdf) or my [Google Scholar profile](https://scholar.google.fr/citations?user=UJBh1DUAAAAJ&hl=en).)
+[comment]: <> (For a complete list of publications take a look at my [CV](https://carlos-gg.github.io/assets/cv/cv.pdf) or my [Google Scholar profile](https://scholar.google.fr/citations?user=UJBh1DUAAAAJ&hl=en).)
 
 
 ## Supervised detection of exoplanets in high-contrast imaging sequences
 
 * [ArXiv](https://arxiv.org/abs/1712.02841)
 * [Astronomy & Astrophysics, 2018](https://www.aanda.org/articles/aa/abs/2018/05/aa31961-17/aa31961-17.html)
-* [GitHub](https://github.com/carlgogo/supervised-detection-exoplanets-hci)
+* [GitHub](https://github.com/carlos-gg/supervised-detection-exoplanets-hci)
 
 We reformulate the exoplanet detection task (for [angular differential imaging](https://vimeo.com/125547220) sequences) building on well-established machine learning techniques to take high-contrast imaging post-processing from an unsupervised to a supervised learning context. In this new framework, we presented algorithmic solutions using two different discriminative models: SODIRF (random forests) and SODINN (neural networks). The proposed supervised detection framework outperforms state-of-the-art techniques in the task of discriminating planet signal from speckles. For instance, SODINN improves the true positive rate by a factor ranging from ∼2 to ∼10 wrt. low-rank based approaches, working at the same false positive rate. The code has been publicly released and can be found on GitHub.
 

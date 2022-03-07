@@ -10,7 +10,7 @@ header:
         overlay_filter: 0.0
 ---
 
-Most of the academic code I develop is [open](https://en.wikipedia.org/wiki/Open_source) and lives on [Github](https://github.com/carlgogo/), or at least that how it was until the beginning of 2020. During the past few months, I have been using a private Gitlab server at the Barcelona Supercomputing Center. My plan is to start mirroring some repositories to increase my activity on Github and the visibility of my code. 
+Most of the academic code I develop is [open](https://en.wikipedia.org/wiki/Open_source) and lives on [Github](https://github.com/carlos-gg/), or at least that how it was until the beginning of 2020. During the past few months, I have been using a private Gitlab server at the Barcelona Supercomputing Center. My plan is to start mirroring some repositories to increase my activity on Github and the visibility of my code. 
 
 Below, are highlighted some repositories with code for past projects on astronomical high-contrast imaging (in which I am no longer involved): 
 
@@ -18,7 +18,7 @@ Below, are highlighted some repositories with code for past projects on astronom
 
 The SODINN package is the consolidation and evolution of the framework
 proposed in Gomez Gonzalez et al. 2018. This is work in progress and is
-being developed "in the open" (see the repository on [Github](https://github.com/carlgogo/sodinn)), as an exercise of open science. This framework
+being developed "in the open" (see the repository on [Github](https://github.com/carlos-gg/sodinn)), as an exercise of open science. This framework
 for exoplanet detection in multidimensional (3d and 4d arrays) 
 high-contrast imaging datacubes consists of 2 main components: a 
 labeled data generation system and a discriminator, in the form of a 
@@ -52,7 +52,7 @@ pip install hciplot
 
 ## supervised-detection-exoplanets-hci
 
-Code for the paper: ["Supervised detection of exoplanets in high-contrast imaging sequences"](https://www.aanda.org/articles/aa/abs/2018/05/aa31961-17/aa31961-17.html), Gomez Gonzalez et al 2018. Developed in Python 2 but compatible with Python 3. This package enables the generation of labeled data (MLAR smaples) for training machine learning classifiers. It also contains a function for building and training the neural network model that succesfully exploits the 3 dimensions of the training samples (hybrid convolutional and recurrent network). Keras/Tensorflow were used for the implementing network. Finally, it also contains the code for generating the ROC curves (figures 7 and 8) comparing the supervised detection framework to standard model PSF subtraction techniques. Code on [GitHub](https://github.com/carlgogo/supervised-detection-exoplanets-hci).
+Code for the paper: ["Supervised detection of exoplanets in high-contrast imaging sequences"](https://www.aanda.org/articles/aa/abs/2018/05/aa31961-17/aa31961-17.html), Gomez Gonzalez et al 2018. Developed in Python 2 but compatible with Python 3. This package enables the generation of labeled data (MLAR smaples) for training machine learning classifiers. It also contains a function for building and training the neural network model that succesfully exploits the 3 dimensions of the training samples (hybrid convolutional and recurrent network). Keras/Tensorflow were used for the implementing network. Finally, it also contains the code for generating the ROC curves (figures 7 and 8) comparing the supervised detection framework to standard model PSF subtraction techniques. Code on [GitHub](https://github.com/carlos-gg/supervised-detection-exoplanets-hci).
 
 ## PyAstrOFit
 

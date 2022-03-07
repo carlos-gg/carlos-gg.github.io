@@ -15,9 +15,9 @@ name: Carlos Alberto Gomez Gonzalez
 description: >- # this means to ignore newlines until "baseurl:"
   Carlos Alberto Gomez Gonzalez's personal website.
 baseurl:  # the subpath of your site, e.g. "/blog"
-url: https://carlgogo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-repository: carlgogo/carlgogo.github.io  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-github_username: carlgogo
+url: https://carlos-gg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+repository: carlos-gg/carlos-gg.github.io  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+github_username: carlos-gg
 teaser: "/assets/images/bio-photo.jpg"
 search: false
 
@@ -35,7 +35,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Postdoctoral fellow on AI for Earth Sciences at the Barcelona Supercomputing Center"
   email            : carlosgg33@gmail.com
-  uri              : #"https://carlgogo.github.io"
+  uri              : #"https://carlos-gg.github.io"
   location         : "Barcelona, Spain"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -44,13 +44,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : carlgogo
+  github           : carlos-gg
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : carl_gogo
+  instagram        : carlosalbgog
   lastfm           :
-  linkedin         : carlgogo
+  linkedin         : carlosgog
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)

@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-I publish my presentations on [Speaker Deck](https://speakerdeck.com/carlgogo/). See below a few selected ones: 
+I publish my presentations on [Speaker Deck](https://speakerdeck.com/carlosgog/). See below a few selected ones: 
 
 ## Learning to simulate precipitation with supervised and generative learning models
 Virtual poster presented at the ECMWF-ESA workshop on Machine Learning for earth observation and prediction.
@@ -35,7 +35,7 @@ Invited talk at the [RADA big data workshop](https://as595.github.io/RADABigData
 <script async class="speakerdeck-embed" data-id="08a5bf0109df46ffbc32b56e77e03402" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## A la caza de exoplanetas por imagen directa con Python: De la ciencia de datos, la exoplanetología y otros demonios
-Charla presentada en la PyconES 2018 (Málaga, España). [Slides](https://speakerdeck.com/carlgogo/a-la-caza-de-exoplanetas-por-imagen-directa-con-python-de-la-ciencia-de-datos-la-exoplanetologia-y-otros-demonios).
+Charla presentada en la PyconES 2018 (Málaga, España). [Slides](https://speakerdeck.com/carlosgog/a-la-caza-de-exoplanetas-por-imagen-directa-con-python-de-la-ciencia-de-datos-la-exoplanetologia-y-otros-demonios).
 
 {% include video id="J2rmOKPZgl8" provider="youtube" %}
 
@@ -50,7 +50,7 @@ Presentation given at the Paris-Saclay Center for Data Science (INRIA Saclay) on
 <script async class="speakerdeck-embed" data-id="c6c801d3a653414c864c4faf86a903d4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Data Science in astronomical image processing: looking for exoplanets using machine learning
-Talk presented at the [Data science in the Alps workshop](https://data-institute.univ-grenoble-alpes.fr/news-and-events/feedback-of-the-workshop-data-science-in-the-alps--743560.htm?RH=10277933037836520). The program of this meeting was composed of a mixture of talks about methodological research and about various scientific applications of data science. The slides can be found [here](https://speakerdeck.com/carlgogo/data-science-in-astro-image-processing-looking-for-exoplanets-using-machine-learning).
+Talk presented at the [Data science in the Alps workshop](https://data-institute.univ-grenoble-alpes.fr/news-and-events/feedback-of-the-workshop-data-science-in-the-alps--743560.htm?RH=10277933037836520). The program of this meeting was composed of a mixture of talks about methodological research and about various scientific applications of data science. The slides can be found [here](https://speakerdeck.com/carlosgog/data-science-in-astro-image-processing-looking-for-exoplanets-using-machine-learning).
 
 {% include video id="YPkeSnVwg9k" provider="youtube" %}
 
