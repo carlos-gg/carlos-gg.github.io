@@ -16,7 +16,8 @@ A few facts about me (in no particular order):
 - Curious about entrepreneurship :hammer:
 - Proud dad :family_man_boy:
 - Metalhead and avantgarde music lover :headphones:
-- Polyglot (Spanish, English, French and Russian) :globe_with_meridians:
+- Polyglot (es, en, fr, ru) :globe_with_meridians:
+
 ---
 
 I received a PhD from the [University of Liege](https://www.uliege.be/), Belgium, where I worked on Computer Vision for the task of extrasolar planets detection, pioneering the application of Deep Learning to the field of astronomical high-contrast imaging. 
