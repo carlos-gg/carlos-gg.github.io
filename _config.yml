@@ -10,7 +10,7 @@ minimal_mistakes_skin: "dark_cgg" #"air_cgg"
 # Site Settings
 locale: "en"
 title: " "
-masthead_title: "CGG's homepage"
+masthead_title: "CarlosGG's Homepage"
 name: Carlos Alberto Gomez Gonzalez
 description: >- # this means to ignore newlines until "baseurl:"
   Carlos Alberto Gomez Gonzalez's personal website.
@@ -31,7 +31,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carlos Alberto Gomez Gonzalez"
+  name             : "Carlos A. Gomez Gonzalez"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Postdoctoral fellow on AI for Earth Sciences at the Barcelona Supercomputing Center"
   email            : carlosgg33@gmail.com
