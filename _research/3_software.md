@@ -4,25 +4,36 @@ layout: single
 classes: wide
 permalink: /software/
 author_profile: true
-excerpt: "Most of the academic code I develop is open and lives on Github..."
+excerpt: "Most of the academic code I develop is open and lives on https://github.com/carlos-gg/..."
 header:
         overlay_image: /assets/images/header_image_github.jpg
         overlay_filter: 0.0
 ---
 
-Most of the academic code I develop is [open](https://en.wikipedia.org/wiki/Open_source) and lives on [Github](https://github.com/carlos-gg/), or at least that how it was until the beginning of 2020. During the past few months, I have been using a private Gitlab server at the Barcelona Supercomputing Center. My plan is to start mirroring some repositories to increase my activity on Github and the visibility of my code. 
+Most of the academic code I develop is [open](https://en.wikipedia.org/wiki/Open_source) and lives on [Github](https://github.com/carlos-gg/).
 
-Below, are highlighted some repositories with code for past projects on astronomical high-contrast imaging (in which I am no longer involved): 
+Below, are highlighted some repositories with code for ongoing and past projects: 
+
+## DL4DS
+
+DL4DS (Deep Learning for empirical DownScaling) is a software in the form of a python package, that implements state-of-the-art and novel deep learning methods for super-resolution or downscaling of climate and Earth observation data. DL4DS has been designed with the goal of providing a general framework for training convolutional neural networks with configurable architectures and training procedures to facilitate comparative and ablation studies in a robust way. The methods implemented in DL4DS can be trained in a distributed way on several GPUs. The methods of DL4DS handle multiple predictor and auxiliary variables, can operate in perfect prognosis or model output statistics frameworks, can model spatial or spatio-temporal samples, and can be trained in a purely supervised or in an adversarial conditional way. DL4DS implements several upsampling techniques and a channel-attention mechanism. A localized convolutional block can be included in the networks of DL4DS for learning location (grid point) specific information. [DL4DS repo](https://github.com/carlos-gg/dl4ds).
+
+![DL4DS](/assets/images/dl4ds.png){:width="800px"}
+
+_Panels (A) and (B) show reference LR and HR fields from the test (holdout) set for a given time step. Panels (C), (D) and (E) are the downscaled HR products for 3 different models. Panels (F), (G) and (H) show the corresponding RMSE maps to the models described for panels (C), (D) and (E) for the last 3 months of 2018._
+
+
+## Ecubevis
+
+Earth CUBE VISualization with Python. Intended for the interactive exploration of n-dimensional (2D, 3D, 4D or 5D) arrays on Jupyterlab/Jupyter notebooks. [Ecubevis repo](https://github.com/carlos-gg/ecubevis).
+
+```bash
+pip install ecubevis
+```
 
 ## SODINN
 
-The SODINN package is the consolidation and evolution of the framework
-proposed in Gomez Gonzalez et al. 2018. This is work in progress and is
-being developed "in the open" (see the repository on [Github](https://github.com/carlos-gg/sodinn)), as an exercise of open science. This framework
-for exoplanet detection in multidimensional (3d and 4d arrays) 
-high-contrast imaging datacubes consists of 2 main components: a 
-labeled data generation system and a discriminator, in the form of a 
-deep neural network.  
+The SODINN package is the consolidation and evolution of the framework proposed in Gomez Gonzalez et al. 2018. This is work in progress and is being developed "in the open" (see the repository on [Github](https://github.com/carlos-gg/sodinn)), as an exercise of open science. This framework for exoplanet detection in multidimensional (3d and 4d arrays) high-contrast imaging datacubes consists of 2 main components: a labeled data generation system and a discriminator, in the form of a deep neural network.  
 
 ## VIP
 

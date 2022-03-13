@@ -2,11 +2,12 @@
 main:
   - title: "My Digital Garden"
     url: /digitalgarden/
-  - title: "About me"
-    url: /aboutme/
   - title: "Research"
     url: /research/
-  - title: "Random stuff"
+  - title: "Software"
+    url: /software/
+  - title: "Random"
     url: /random/
-
+  - title: "About me"
+    url: /aboutme/
 
