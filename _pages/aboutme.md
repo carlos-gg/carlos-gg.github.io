@@ -9,13 +9,13 @@ author_profile: true
 A few facts about me:
 - Born in [Santa Marta](https://www.tripadvisor.co.uk/Tourism-g297484-Santa_Marta_Santa_Marta_Municipality_Magdalena_Department-Vacations.html), Colombia :colombia:
 - Researcher in AI and data scientist :mag:
-- Professional note-taker :blue_book:  
+- Professional note-taker and grower of a [digital garden](https://carlos-gg.github.io/digitalgarden/)) :blue_book:  
 - Metalhead and avantgarde music lover :headphones:
-- Pythoneer :snake:
+- Pythoneer and scientific software developer :snake:
 - [World-traveller](/countries_visited/) :bullettrain_front:
 - Ex-astronomer :telescope:
 - Curious about entrepreneurship :globe_with_meridians:
-- Loving dad :family_man_boy:
+- Proud dad :family_man_boy:
 
 ---
 
@@ -25,4 +25,4 @@ After my PhD, I joined the [Grenoble Alpes Data Institute](https://data-institut
 
 The enriching experience of these two years at the Grenoble Alpes Data Institute allowed me to diversify my research interests and to expand my comfort zone when it comes to carrying out inter- and multi-disciplinary projects. Moreover, I had the fortune to participate in a few European entrepreneurship events that woke up the entrepreneur side of me. After co-funding a couple of start ups and feeling the temptation to leave academia, I decided instead to continue doing research and fully focus my skills on a field related to the Earth and the environment. 
 
-This is why nowadays, I work as a STARS (MSCA-COFUND) postdoctoral fellow in Artificial Intelligence for Earth Sciences, within the Computational Earth Sciences group at the [Barcelona Supercomputing Center](https://www.bsc.es). Little did I know that _switching disciplines mid-career is very hard_. The main challenges being: [building credibility and a network of collaborators in a new field](https://www.explainxkcd.com/wiki/index.php/1831:_Here_to_Help), and keeping a steady production of publications (unfortunately, the main currency in the modern academic world). In spite of this, I feel fortunate with what I do: contributing to exciting inter-disciplinary projects focused on the most important planet we know of, Earth! :earth_africa:
+This is why nowadays, I work as a STARS (MSCA-COFUND) postdoctoral fellow in Artificial Intelligence for Earth Sciences, within the Computational Earth Sciences group at the [Barcelona Supercomputing Center](https://www.bsc.es). Little did I know that _switching disciplines mid-career is usually a very bad idea_. The main challenges being: [building credibility and a network of collaborators in a new field](https://www.explainxkcd.com/wiki/index.php/1831:_Here_to_Help), and keeping a steady production of publications (unfortunately, the main currency in the modern academic world). In spite of this, I feel fortunate with what I do: contributing to exciting inter-disciplinary projects focused on the most important planet we know of, Earth! :earth_africa:

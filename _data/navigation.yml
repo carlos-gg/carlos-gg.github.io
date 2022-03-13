@@ -1,11 +1,12 @@
 # main links
 main:
+  - title: "My Digital Garden"
+    url: /digitalgarden/
   - title: "About me"
     url: /aboutme/
   - title: "Research"
     url: /research/
   - title: "Random stuff"
     url: /random/
-  - title: "Digital Garden"
-    url: /AIDigitalGarden/
+
 
