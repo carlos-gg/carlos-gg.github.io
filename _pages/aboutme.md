@@ -9,7 +9,7 @@ author_profile: true
 A few facts about me (in no particular order):
 - Born in [Santa Marta](https://www.tripadvisor.co.uk/Tourism-g297484-Santa_Marta_Santa_Marta_Municipality_Magdalena_Department-Vacations.html), Colombia :colombia:
 - Researcher in AI, data scientist :mag:
-- Professional note-taker and grower of a [digital garden](https://carlos-gg.github.io/digitalgarden/) :blue_book:  
+- Professional note-taker and grower of a [knowledge garden](https://carlos-gg.github.io/digitalgarden/) :blue_book:  
 - Pythoneer and scientific software developer :snake:
 - [World-traveller](/countries_visited/) :bullettrain_front:
 - Ex-astronomer/astrophysicist :telescope:
