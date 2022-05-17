@@ -21,7 +21,7 @@ Find below a few selected presentatations and conference contributions:
 ## Learning to simulate precipitation with supervised and generative learning models
 > Virtual poster presented at the ECMWF-ESA workshop on Machine Learning for earth observation and prediction 2020.
 
-<iframe src="https://widgets.figshare.com/articles/19779964/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/19779964/embed?show_title=1" width="350" height="567" allowfullscreen frameborder="0"></iframe>
 
 ## Identification of Wastewater CH4 Emission Sources with Computer Vision and Sentinel-2 Observations
 > Virtual poster presented at the ESA Phi-week 2020.
