@@ -6,13 +6,16 @@ author_profile: true
 classes: wide
 ---
 
-I publish my presentations on [Speaker Deck](https://speakerdeck.com/carlosgog/). See below a few selected ones: 
+Find below a few selected presentatations and conference contributions: 
+
+## DL4DS - Deep Learning for empirical DownScaling
+
+<iframe src="https://widgets.figshare.com/articles/19779946/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
 
 ## Learning to simulate precipitation with supervised and generative learning models
 Virtual poster presented at the ECMWF-ESA workshop on Machine Learning for earth observation and prediction.
 
 <div style="max-width: 30vh;"><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 133.3803%;"><iframe src="https://speakerdeck.com/player/20277cccdabf4ce488b3500734aec8e1" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div></div>
-
 
 ## Identification of Wastewater CH4 Emission Sources with Computer Vision and Sentinel-2 Observations
 Virtual poster presented at the ESA Phi-week 2020.
