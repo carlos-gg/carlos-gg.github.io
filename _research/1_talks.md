@@ -13,18 +13,18 @@ Find below a few selected presentatations and conference contributions:
 <iframe src="https://widgets.figshare.com/articles/19779946/embed?show_title=1" width="350" height="530" allowfullscreen frameborder="0"></iframe>
 
 
-## Deep learning-based super-resolution of climate (forecast) data
+## Deep learning-based super-resolution of climate (forecast) data
 > Talk given at PyconES 2021. The video recording can be found on [Youtube](https://www.youtube.com/watch?v=1p8bzYioXdA&t=1s).
 
 
 ## AI applications to Earth Science at the Barcelona Supercomputing Center
 > Invited talk at the ESA Phi-Week 2021.
-<iframe src="https://widgets.figshare.com/articles/19780021/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/19780021/embed?show_title=1" width="700" height="400" allowfullscreen frameborder="0"></iframe>
 
 
 ## Learning to simulate precipitation with supervised and generative learning models
 > Virtual poster presented at the ECMWF-ESA workshop on Machine Learning for earth observation and prediction 2020.
-<iframe src="https://widgets.figshare.com/articles/19779964/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/19779964/embed?show_title=1" width="700" height="400" allowfullscreen frameborder="0"></iframe>
 
 
 ## Identification of Wastewater CH4 Emission Sources with Computer Vision and Sentinel-2 Observations
