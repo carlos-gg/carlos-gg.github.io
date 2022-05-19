@@ -8,10 +8,16 @@ header:
     overlay_filter: 0.0
 ---
 
-Selected publications, and their corresponding open source code, from my previous research life when I studied exoplanets and astronomical high-contrast imaging:
+For a complete list of publications take a look at my [Google Scholar profile](https://scholar.google.fr/citations?user=UJBh1DUAAAAJ&hl=en). A few selected publications, and their corresponding open source code can be found below:
 
-[comment]: <> (For a complete list of publications take a look at my [CV](https://carlos-gg.github.io/assets/cv/cv.pdf) or my [Google Scholar profile](https://scholar.google.fr/citations?user=UJBh1DUAAAAJ&hl=en).)
+## DL4DS - Deep Learning for empirical DownScaling
 
+* [ArXiv](https://arxiv.org/abs/2205.08967)
+* [GitHub](https://github.com/carlos-gg/dl4ds)
+
+We presetn `DL4DS` (Deep Learning for empirical DownScaling), a Python package that implements state-of-the-art and novel deep learning algorithms for empirical downscaling of gridded Earth science data. With `DL4DS`, a low-resolution gridded dataset can be downscaled with the help of an arbitrary number of auxiliary predictor and static variables, and a high-resolution reference dataset. The mapping between the low- and high-resolution data is learned with either a supervised (aka CNN) or a conditional generative adversarial (aka cGAN) Deep Learning model. The training can be done from explicit pairs of high- and low-resolution samples (MOS-style, e.g., high-res observations and low-res numerical weather prediction model output) or only with a HR dataset (PerfectProg-style, e.g., high-res observations or high-res model output). In `DL4DS`, we implement a channel attention mechanism to exploit inter-channel relationship of features by providing a weight for each channel in order to enhance those that contribute the most to the optimizaiton and learning process. Aditionally, a Localized Convolutional Block (LCB) is located in the output module of the networks in `DL4DS`. With the LCB we learn location-specific information via a locally connected layer with biases. `DL4DS` is built on top of Tensorflow/Keras and supports distributed GPU training (data parallelism) thanks to Horovod. 
+
+![DL4DS workflow](https://github.com/carlos-gg/dl4ds/raw/master/docs/img/fig_workflow.png){:width="700px"}
 
 ## Supervised detection of exoplanets in high-contrast imaging sequences
 
