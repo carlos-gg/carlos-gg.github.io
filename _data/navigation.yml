@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About me"
+    url: /aboutme/
   - title: "My Knowledge Garden"
     url: /digitalgarden/
   - title: "Research"
@@ -8,6 +10,5 @@ main:
     url: /software/
   - title: "Random"
     url: /random/
-  - title: "About me"
-    url: /aboutme/
+
 
