@@ -8,6 +8,10 @@ classes: wide
 
 Find below a few selected presentatations and conference contributions: 
 
+## DL4DS - A python library for empirical downscaling and super-resolution of Earth Science gridded data
+> Presentation at GeoPython 2022 conference. Basel, Switzerland.
+<iframe src="https://widgets.figshare.com/articles/20168723/embed?show_title=1" width="700" height="400" allowfullscreen frameborder="0"></iframe>
+
 ## DL4DS - Deep Learning for empirical DownScaling
 > Virtual poster presented at Climate Informatics 2022. 
 <iframe src="https://widgets.figshare.com/articles/19779946/embed?show_title=1" width="350" height="530" allowfullscreen frameborder="0"></iframe>
