@@ -3,6 +3,6 @@ layout: single
 classes: wide
 ---
 
-¡Hola! You have reached my homepage so let me tell you a little bit about myself. I am a STARS (MSCA-COFUND) postdoctoral fellow at the Earth Sciences department of the [Barcelona Supercomputing Center](https://www.bsc.es) (BSC). 
+¡Hola! You have reached my homepage so let me tell you a little bit about myself. I have a multidisciplinary background at the interface of Artificial Intelligence (AI/ML), software development, and academic data science.
 
-I hold a Ph.D. in Science (doctorat en Sciences) from the University of Liège (Belgium) where I carried out an interdisciplinary doctoral thesis at the interface of Computer Vision and Astrophysics. After my thesis, I worked as a "Junior research Chair in Data Science for Earth and Space sciences" at the Université Grenoble Alpes (France). With my multidisciplinary background at the interface of software development, machine learning and academic data science, I joined the BSC to carry on projects focusing on Artificial Intelligence applied to Earth Sciences. 
+I obtained a Ph.D. in Science (doctorat en Sciences) from the University of Liège, Belgium, where I carried out an interdisciplinary doctoral thesis at the interface of Computer Vision and Astrophysics. After this, I joined the Data Science Institute of the Université Grenoble Alpes, France, as a "Research Chair in Data Science for Earth and Space sciences". Currently, I am a Marie-Curie postdoctoral fellow at the Earth Sciences department of the [Barcelona Supercomputing Center](https://www.bsc.es) (BSC), where I work on AI applied to Earth Sciences, and also a visiting researcher at NVIDIA.
