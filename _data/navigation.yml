@@ -2,6 +2,8 @@
 main:
   - title: "About me"
     url: /aboutme/
+  - title: "CV"
+    url: /cv/
   - title: "My Knowledge Garden"
     url: /digitalgarden/
   - title: "Research"
