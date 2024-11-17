@@ -4,8 +4,8 @@ main:
     url: /aboutme/
   - title: "CV"
     url: /cv/
-  - title: "My Knowledge Garden"
-    url: /digitalgarden/
+  - title: "My AI notes"
+    url: https://aigarden.vercel.app/
   - title: "Research"
     url: /research/
   - title: "Software"
