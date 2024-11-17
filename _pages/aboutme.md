@@ -12,11 +12,11 @@ A few facts about me (in no particular order):
 - Pythoneer :snake:
 - [World-traveller](/countries_visited/) :bullettrain_front:
 - Ex-astrophysicist :telescope:
-- Curious about entrepreneurship :hammer:
 - Proud dad :family_man_boy:
 - Metalhead and avantgarde music lover :headphones:
 - Polyglot (es, en, fr, ru, cat) :globe_with_meridians:
-- Professional note-taker and grower of a (now outdated) [knowledge garden](https://carlos-gg.github.io/digitalgarden/) :blue_book:  
+- Professional note-taker (checkout my [AI notes](https://aigarden.vercel.app/)) :blue_book:  
+- Curious (failed) entrepreneur :hammer:
 
 ---
 
